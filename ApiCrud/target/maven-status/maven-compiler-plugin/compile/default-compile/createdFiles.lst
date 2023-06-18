@@ -1,0 +1,6 @@
+br/edu/ficdev/apicrud/resources/ProductResource.class
+br/edu/ficdev/apicrud/resources/JakartaEE8Resource.class
+br/edu/ficdev/apicrud/Product.class
+br/edu/ficdev/apicrud/JakartaRestConfiguration.class
+br/edu/ficdev/apicrud/ProductDAO.class
+.netbeans_automatic_build
